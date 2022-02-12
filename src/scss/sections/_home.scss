@@ -81,7 +81,7 @@
 
 @media screen and (min-width: 280px) and (max-width: 1080px) {
   .home {
-    margin-top: 3rem;
+    margin-top: 1rem;
     padding: 1rem;
     position: relative;
     overflow-x: hidden;
@@ -98,6 +98,9 @@
         }
         .description {
           font-size: 1rem;
+        }
+        button {
+          margin-top: 1rem;
         }
       }
       .image-container {
