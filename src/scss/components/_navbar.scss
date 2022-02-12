@@ -89,7 +89,7 @@ nav {
       }
     }
     .links-container {
-      z-index: 30;
+      z-index: 31;
       background: linear-gradient(101deg, var(--pink), var(--orange));
       height: 100vh;
       position: absolute;
@@ -108,6 +108,7 @@ nav {
         li {
           a {
             color: var(--background);
+            gap: 1rem;
           }
           &:last-of-type {
             display: none;

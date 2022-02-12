@@ -88,6 +88,14 @@
     .container {
       font-size: 16px;
       grid-template-columns: 0.7fr;
+      .content {
+        .title {
+          font-size: 4rem;
+        }
+        .description {
+          font-size: 1rem;
+        }
+      }
       .image-container {
         position: absolute;
         right: -10%;
