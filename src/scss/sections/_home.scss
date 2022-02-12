@@ -89,8 +89,11 @@
       font-size: 16px;
       grid-template-columns: 0.7fr;
       .content {
+        .sub-title {
+          font-size: 1.3rem;
+        }
         .title {
-          font-size: 4rem;
+          font-size: 3rem;
         }
         .description {
           font-size: 1rem;
