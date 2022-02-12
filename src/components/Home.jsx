@@ -31,10 +31,8 @@ export default function Home() {
               grawitację, eliminująca trudności interpretacyjne.
             </p>
             <p>
-              Należy do krytyków teorii superstrun, interpretacji Everetta
-              mechaniki kwantowej oraz inflacji kosmicznej. W 2006 stworzył
-              Konformalną Kosmologię Cykliczną będącą modelem kosmologicznym w
-              ramach ogólnej teorii względności.
+              W 2006 stworzył Konformalną Kosmologię Cykliczną będącą modelem
+              kosmologicznym w ramach ogólnej teorii względności.
             </p>
             <br />
             <p>
