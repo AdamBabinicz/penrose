@@ -6,13 +6,12 @@
   &-content {
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 1.5rem;
     padding: 1rem;
-    align-items: flex-end;
 
     .card-heading {
       display: flex;
-      justify-content: space-around;
+      justify-content: center;
 
       .card-series {
         color: var(--accent-color1);
