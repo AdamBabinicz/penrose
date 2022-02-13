@@ -89,12 +89,34 @@ footer {
     .upper {
       flex-direction: column;
       gap: 2rem;
+
+      .brand-container {
+        p {
+          margin: 0 1rem 1.5rem;
+        }
+        ul {
+          li {
+            a {
+              font-size: 1.3rem;
+              margin-right: 1rem;
+            }
+          }
+        }
+      }
       .links {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         gap: 2rem;
         .link {
           gap: 1rem;
+
+          ul {
+            li {
+              a {
+                margin-bottom: 1rem;
+              }
+            }
+          }
         }
       }
     }
