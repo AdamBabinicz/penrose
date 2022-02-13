@@ -106,11 +106,11 @@ nav {
       transition: 0.5s ease-in-out;
       .links {
         flex-direction: column;
+
         li {
+          margin-bottom: 2rem;
           a {
             color: var(--background);
-            margin-bottom: 2rem;
-            color: red;
           }
           &:last-of-type {
             display: none;
