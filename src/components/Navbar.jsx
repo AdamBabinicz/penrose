@@ -33,16 +33,16 @@ export default function Navbar({ changeTheme, currentTheme }) {
       </div>
       <div className={`links-container ${navState ? "nav-visible" : ""}`}>
         <ul className="links">
-          <li>
+          <li onClick={() => setNavState(false)}>
             <a href="#model">Model</a>
           </li>
-          <li>
+          <li onClick={() => setNavState(false)}>
             <a href="#cykle">Cykle</a>
           </li>
-          <li>
+          <li onClick={() => setNavState(false)}>
             <a href="#teoria">Teoria</a>
           </li>
-          <li>
+          <li onClick={() => setNavState(false)}>
             <a href="#protoświadomość">Protoświadomość</a>
           </li>
           <li onClick={changeTheme}>
