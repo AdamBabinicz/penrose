@@ -33,8 +33,11 @@
           // &:nth-of-type(5) {
           //   display: none;
           // }
+          margin-bottom: 1rem;
           img {
-            // height: 1.5rem;
+            width: 20rem;
+            height: 15rem;
+            object-fit: cover;
           }
         }
       }
