@@ -23,6 +23,7 @@
       }
       .description {
         color: var(--accent-color3);
+        font-size: 1.3rem;
       }
       button {
         color: var(--accent-color1);
@@ -88,6 +89,10 @@
     .container {
       font-size: 16px;
       grid-template-columns: 0.7fr;
+
+      .description {
+        font-size: 1rem;
+      }
       .image-container {
         position: absolute;
         right: 5%;
