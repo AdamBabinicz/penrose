@@ -56,7 +56,14 @@ export default function Superrare() {
           początek innego Wszechświata, znanego również jako Eon. Teoria ta jest
           bardzo kontrowersyjna, jednak Fizyk twierdzi, że „czarne dziury były
           kiedyś uważane za kontrowersyjne, ale teraz są częścią głównego nurtu
-          nauki”. <a href="#">Więcej</a>
+          nauki”.&nbsp;
+          <a
+            href="https://www.rp.pl/kosmos/art1775901-szukaja-innych-kosmosow"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Więcej
+          </a>
         </p>
       </div>
       <div className="cards">

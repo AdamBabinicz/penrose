@@ -12,7 +12,7 @@ export default function Free() {
           <Card
             image={super1}
             series="Eony"
-            title="Entropia"
+            title=""
             price="Ekspansja"
             tag="CMB"
             time="10^100"
@@ -21,10 +21,10 @@ export default function Free() {
         <div className="card2">
           <Card
             image={rel2}
-            series="Ciemna energia"
-            title="CCC"
+            series="CCC"
+            title=""
             price="Big Bang"
-            tag="Promieniowanie"
+            tag=""
             time="Fotony"
           />
         </div>

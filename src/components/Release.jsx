@@ -76,7 +76,7 @@ export default function Release() {
             image={release2}
             series="OTW"
             title="Parkietaż Penrosa"
-            price="Cząstki bezmasowe"
+            price=""
             tag="Fale grawitacyjne"
             time="Czasoprzestrzeń"
           />
