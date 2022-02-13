@@ -64,12 +64,12 @@
       .card {
         zoom: 0.7;
         margin-bottom: 2rem;
+        overflow-x: hidden;
 
         img {
           width: 500px;
           height: 600px;
           object-fit: contain;
-          overflow-x: hidden;
         }
         // .series,
         // .title,
