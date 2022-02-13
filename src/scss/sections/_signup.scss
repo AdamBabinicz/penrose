@@ -90,9 +90,16 @@
       font-size: 16px;
       grid-template-columns: 0.7fr;
 
-      .description {
-        font-size: 1rem;
+      .content {
+        .title {
+          font-size: 1.5rem;
+          margin: 1rem 0;
+        }
+        .description {
+          font-size: 1rem;
+        }
       }
+
       .image-container {
         position: absolute;
         right: 5%;
