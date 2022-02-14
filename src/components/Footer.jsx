@@ -104,7 +104,7 @@ export default function Footer() {
   ];
   const socialLink = [
     <a
-      href="https://www.facebook.com/groups/biblia.chrzescijanstwo"
+      href="https://www.facebook.com/SirRogerPenrose"
       target="_blank"
       rel="noopener noreferrer"
     >
