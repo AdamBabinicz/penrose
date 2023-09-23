@@ -31,7 +31,7 @@ export default function Home() {
               grawitację, eliminująca trudności interpretacyjne.
             </p>
             <p>
-              W 2006 stworzył Konformalną Kosmologię Cykliczną będącą modelem
+              W 2006 stworzył Konforemną Kosmologię Cykliczną będącą modelem
               kosmologicznym w ramach ogólnej teorii względności.
             </p>
             <br />
