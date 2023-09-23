@@ -10,7 +10,7 @@ export default function Home() {
     <div className="home">
       <div className="container">
         <div className="content">
-          <p className="sub-title">Konformalna Kosmologia Cykliczna</p>
+          <p className="sub-title">Konforemna Kosmologia Cykliczna</p>
           <h1 className="title">sir Roger Penrose</h1>
           <p className="description">
             – brytyjski naukowiec: fizyk teoretyczny, matematyk, filozof nauki i
